@@ -1,0 +1,19 @@
+Click on the "Start new game" button to start a new game. The number 1 
+will appear on the screen in the upper-left corner. 
+
+When you remember where the number 1 is, click on the button "Click 
+here when you are ready". All fields will be filled with 0, and then you 
+need to click on the field where was number 1 (upper-left corner). If 
+you have completed these steps, you have successfully moved to level 2. 
+
+At level 2, the first 2 fields will be filled with numbers 1 and 2 in 
+random order. To go to level 3, you must first remember in wich order 
+they appeared, then click the "Click here when you ready" button again,
+and then click on fields 1 and 2 in the appropriate order. On each 
+subsequent level, one more field will be filled with a random number,
+up to a maximum of level 30. 
+
+In case you have not clicked on the fields in the appropriate order, 
+the message "Game over" will appear in the lower-right corner. Also, in
+the lower-right corner, there is a field where you can enter your 
+username, and the best result can be seen in the "High score" tab.
