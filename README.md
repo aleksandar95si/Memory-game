@@ -1,36 +1,26 @@
-# memory-game
+# Memory Game
 
-FIXME: description
+Memory Game is a game developed in Clojure, using [cljfx libary](https://github.com/cljfx/cljfx) as a wrapper for JavaFX. 
 
-## Installation
+Game rules can be seen in the "Rules" tab while the game is running, or you can read it in the file ["Rules.txt"](https://github.com/aleksandar95si/Memory-game/blob/master/resources/Rules.txt).
 
-Download from http://example.com/FIXME.
+## Requirements
+
+- Leiningen
+- Clojure 1.10 (or above)
+- Java 8 (or above) 
 
 ## Usage
 
-FIXME: explanation
+Navigate to the repository location and just type `lein run` in the terminal.
 
-    $ java -jar memory-game-0.1.0-standalone.jar [args]
+## Example
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+ ![Memory-Game](https://i.imgur.com/VObWuk6.png) 
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 Aleksandar Ristić
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
